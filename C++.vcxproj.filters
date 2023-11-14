@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="code">
+      <UniqueIdentifier>{b6c99e5d-f23f-475e-a9cf-7e58d4029ad7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="demchusodq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sodautien.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="demsoletrongso_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="tinhtongconso_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sotien_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="bt thêm.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="!dequy.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="maxtrongso_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="12c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="13c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="ucln_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="27c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="14c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="16c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="17c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="22c1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="ktlt 19-20.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="19-20 bai2.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="bai2_ktlt.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="demsokytutu.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="maxtu.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="bai1_ktlt_file.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="snt_dgf.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="matranv.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sapxepmang.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sxsnt.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="SXMT2c.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sxmtv.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="sxscl.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="timmax.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="nhiphandequy.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="thapphan.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="nhiphan.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="maxdequy.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="tongdequy.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="demsochandequy.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="giaithua.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci_dq.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="BCNN.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="controfile.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="phantu.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="phantu2.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="doc-ghi-file.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="mang-file.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source1.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="controso.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="chuoi.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="đề mẫu.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
